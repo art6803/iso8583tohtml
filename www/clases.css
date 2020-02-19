@@ -1,0 +1,67 @@
+.table-bordered th,.table-bordered  td{
+
+border:1px solid #ddd !important;
+}
+.hex{
+
+padding-left:0px;
+margin:0px;
+float:left;
+position:absolute;
+width:710px;
+}
+.cuadro{outline: 1px  dotted #181783;outline-offset: 0.5px}.linea{
+font-size:15px;
+padding-left:0px;
+margin:0px;
+width:710px;
+float:left;
+}
+.campos{
+clear:both;
+ display:block;
+ font-size:15px;
+margin-top:10px;
+width:100%;
+float:left;
+}
+.lineah{
+margin-left:710px;
+font-size:15px;
+padding-left:0px;
+margin:0px;
+width:450px;
+float:left;
+}
+.bin{
+margin-left:710px;
+padding:0px;
+float:left;
+position:relative;
+width:450px;
+}
+.mensaje{
+margin:0px;
+width:100%;
+float:left;
+}
+.data{
+float:left;
+ }
+.yellow{
+background-color:#468CD2;
+ !important;
+color:white;
+box-shadow: 2px 1px 1px #333333;
+}
+.white{
+background-color:white;
+}
+.color1{
+text-decoration:underline;
+}
+.color2{
+}
+.separador{
+width:945px;
+}
